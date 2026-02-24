@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Hi 👋 I'm Mrudula Thange
 
@@ -77,4 +77,4 @@ Preparing for Java Backend Developer roles
 ## 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/mrudula-thange-38658a339/
-</div>
+
