@@ -1,15 +1,25 @@
 <div align="center">
 
-# Hi 👋 I'm Mrudula
+# Hi 👋 I'm Mrudula Thange
 
 ### Aspiring Java Backend Developer
 
-Passionate about building clean and structured backend applications using Java and Spring Boot.
+🚀 Passionate about building clean and structured backend applications using Java and Spring Boot.
+🌱 Currently preparing for entry-level Java Backend Developer roles.  
 
 ---
 
-## 💻 What I Do
 
+## 🧑‍💻 About Me
+
+🎓 Background in B.E in Computer Engineering  
+🔧 Strong foundation in Core Java and OOP concepts  
+🗄️ Working with MySQL and database operations  
+🌐 Building backend applications using Spring Boot  
+🎯 Goal: Become a confident and skilled Java Backend Developer  
+
+
+## 💻 What I Do
 Develop REST APIs using Spring Boot  
 Work with MySQL and JPA for database operations  
 Build CRUD-based backend applications  
@@ -18,20 +28,41 @@ Write clean and maintainable code
 
 
 ---
+### Languages:
+Java, SQL  
 
-## 🛠 Tech Stack
+### Backend:
+Core Java, Spring Boot, REST APIs  
 
-Java • Spring Boot • Spring Data JPA • MySQL • REST APIs • Maven • Git • GitHub  
+### Concepts:
+OOPs, Collections Framework, Exception Handling, Layered Architecture  
+
+### Database:
+MySQL  
+
+### Tools & IDEs:
+Git, GitHub, IntelliJ IDEA, VS Code , Postman
+ 
 
 ---
+## 📂 Featured Projects
 
-## 🚀 Featured Projects
+### 💰 FinTracker
+Personal Finance Management REST API  
+- User Registration & Login
+- Developed RESTful APIs to manage income and expense records
+- Income & Expense Tracking  
+- Dashboard Summary (Balance Calculation)  
+- CRUD Operations using Spring Boot & JPA
+- Tested and validated APIs using Postman.
 
-### 💰 FinTracker  
-Personal Finance Tracker REST API for tracking income and expense transactions  
-
-### 🏢 WorkNest  
-Employee and Task Management backend application built using Spring Boot  
+### 🏢 WorkNest
+Employee & Task Management Backend Application  
+- Developed a role-based task management system  
+- CRUD functionality  
+- Layered Architecture implementation
+- MVC Architecture(Controller-Service-Repository)
+  
 
 ---
 
