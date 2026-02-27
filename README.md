@@ -57,11 +57,12 @@ Personal Finance Management REST API
 - Tested and validated APIs using Postman.
 
 ### 🏢 WorkNest
-Employee & Task Management Backend Application  
-- Developed a role-based task management system  
+Task Management Backend Application  
+- Developed a role-based task management system
+- Implemented session-based authentication and password encryption using BCrypt.
 - CRUD functionality  
 - Layered Architecture implementation
-- MVC Architecture(Controller-Service-Repository)
+- Built features including task creation, assignment, status tracking, commenting, and role-specific dashboards. followed by MVC Architecture(Controller-Service-Repository)
   
 
 ---
