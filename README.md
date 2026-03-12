@@ -63,7 +63,7 @@ Role-based task management web application for managing organizational tasks.
 
 • Implemented role-based access for Admin, Manager, HR, and Employee  
 • Session-based authentication with BCrypt password encryption  
-• Task creation, assignment, and status tracking  
+• Task creation, assignment, and status tracking 
 • Built using MVC architecture  
 • Implemented layered architecture (Controller → Service → Repository)
   
