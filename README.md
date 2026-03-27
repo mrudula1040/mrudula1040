@@ -1,47 +1,57 @@
 # Hi 👋 I'm Mrudula Thange
 
-### Aspiring Java Backend Developer
+### 💼 Software Engineer | Java Backend | API & Manual Testing  
+
+--- 
+
+🚀 Building backend systems + ensuring quality through testing  
 
 🚀 Passionate about building clean and structured backend applications using Java and Spring Boot.
-🌱 Currently preparing for entry-level Java Backend Developer roles.  
 
 ---
-
 
 ## 🧑‍💻 About Me
 
 🎓 B.E in Computer Engineering  
-💻 Backend development using Java & Spring Boot  
-🗄 Experience working with MySQL and JPA  
-📚 Strong understanding of Core Java and OOP  
-🎯 Actively seeking entry-level Java Backend Developer opportunities  
+💻 Experience in Java, Spring Boot, REST APIs  
+🧪 Skilled in Manual Testing & API Testing using Postman  
+🗄 Worked with MySQL and Spring Data JPA  
+📚 Strong understanding of OOP & backend architecture   
 
 ---
 
+🎯 Actively seeking opportunities in:
+- Java Backend Development  
+- Manual Testing / QA
+  
+---
+
 ## 💻 What I Do
-Develop REST APIs using Spring Boot  
-Work with MySQL and JPA for database operations  
-Build CRUD-based backend applications  
-Follow layered architecture (Controller → Service → Repository)  
-Write clean and maintainable code 
+✔ Develop REST APIs using Spring Boot  
+✔ Perform API Testing using Postman  
+✔ Validate business logic and application workflows  
+✔ Write clean, maintainable code  
+✔ Test edge cases and ensure application quality  
 
 
 ---
 ## 🛠 Tech Stack
 
-Languages:
+**Languages**:
 Java, SQL
 
-Backend:
+**Backend**:
 Spring Boot, REST API Development
 
-Concepts:
+**Testing:** Manual Testing, API Testing (Postman)  
+
+**Concepts**:
 OOP, Collections Framework, Exception Handling, Layered Architecture
 
-Database:
+**Database**:
 MySQL
 
-Tools:
+**Tools**:
 Git, GitHub, IntelliJ IDEA, VS Code, Postman
 
 ---
@@ -57,6 +67,12 @@ Backend REST API application for managing personal income and expense transactio
 • CRUD operations using Spring Boot and JPA  
 • API testing using Postman
 
+🧪 Testing:
+- Tested APIs using Postman  
+- Verified status codes and responses  
+- Validated business logic and edge cases
+- 
+
 ### 🏢 WorkNest – Role Based Task Management System
 
 Role-based task management web application for managing organizational tasks.
@@ -66,15 +82,21 @@ Role-based task management web application for managing organizational tasks.
 • Task creation, assignment, and status tracking 
 • Built using MVC architecture  
 • Implemented layered architecture (Controller → Service → Repository)
+
+🧪 Testing:
+- Performed functional testing for different user roles  
+- Validated task workflows and edge cases  
+- Tested authentication and session behavior
+- 
   
 
 ---
 
 ## 📚📚 Currently Learning
 
-Spring Security  
-REST API Best Practices  
-Backend Application Architecture
+- Spring Security  
+- REST API Best Practices  
+- Software Testing Concepts  
 
 ---
 
